@@ -1,0 +1,33 @@
+inorder_list
+insert 45
+inorder_list
+print_tree
+insert 67
+inorder_list
+print_tree
+insert 12
+inorder_list
+print_tree
+insert 34
+inorder_list
+print_tree
+insert 25
+inorder_list
+print_tree
+insert 39
+inorder_list
+print_tree
+insert 79
+inorder_list
+print_tree
+insert 53
+inorder_list
+print_tree
+insert 9
+inorder_list
+print_tree
+remove 34
+remove 39
+remove 9
+remove 79
+print_tree
