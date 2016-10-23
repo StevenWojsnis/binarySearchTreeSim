@@ -1,4 +1,5 @@
 # binarySearchTreeSim
+School Project
 
 Takes an input of numbers, and them creates a binary search tree printed to the console 
 (Root starts on left and works its way to the right)
